@@ -37,7 +37,7 @@ Pull requests are welcome.
 
 
 ## Screen shots
-![alt text](../public/assets/images/Screenshot1.png)
-![alt text](../public/assets/images/Screenshot2.png)
-![alt text](../public/assets/images/Screenshot3.png)
-![alt text](../public/assets/images/Screenshot4.png)
+![alt text](./public/assets/images/Screenshot1.png)
+![alt text](./public/assets/images/Screenshot2.png)
+![alt text](./public/assets/images/Screenshot3.png)
+![alt text](./public/assets/images/Screenshot4.png)
