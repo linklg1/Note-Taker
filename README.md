@@ -14,6 +14,8 @@ An application called Note Taker that can be used to write and save notes. This 
 6. [Screen Shots](#Screen-Shots)
 
 ## Deployed Link
+
+Heroku is no longer open source and I haven't found another host yet so for the time being this site is disabled. Thanks for understanding. 
 [Deployed on Heroku](https://pacific-ravine-86012.herokuapp.com/)
 
 ## Repo
